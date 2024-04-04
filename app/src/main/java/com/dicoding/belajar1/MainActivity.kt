@@ -1,4 +1,5 @@
 package com.dicoding.belajar1
+//belajar activity
 
 import android.os.Bundle
 import android.view.View
